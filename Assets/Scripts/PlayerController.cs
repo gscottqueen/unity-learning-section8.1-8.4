@@ -5,6 +5,7 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
+/*  Based on Sebastian Lague tutorial at https://www.youtube.com/watch?v=gHeQ8Hr92P4&t=7s */
   public float moveSpeed = 15;
   private Vector3 moveDir;
 
